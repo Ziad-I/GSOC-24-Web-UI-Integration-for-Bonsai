@@ -3,6 +3,7 @@
 This readme has weekly updates on my GSOC project progress during coding period in GSOC timeline.
 
 Project Link: https://github.com/opencax/GSoC/issues/87
+
 Community Forum Post: https://community.osarch.org/discussion/2152/gsoc-project-web-based-ui-integration-with-blenderbim#latest
 
 ## Exams (May 25th to June 6th)
