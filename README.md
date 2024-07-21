@@ -48,7 +48,7 @@ No work was done this week due to my graduation project deadline, and discussion
 Community feedback
 Create a diagram to represent the project flow
 
-## Wekk 7 (July 17th to July 23rd)
+## Week 7 (July 17th to July 23rd)
 
 Fix issues with starting the server
 Add a light theme to the web UI
