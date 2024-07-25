@@ -12,30 +12,30 @@ No work was done during this period due to my exams.
 
 ## Week 1 (June 6th to June 11th)
 
-Implemented a simple websocket server inside blenderbim.
-IFC file name is sent to the web browser.
+- Implemented a simple websocket server inside blenderbim.
+- IFC file name is sent to the web browser.
 
 ## Week 2 (June 12th to June 18)
 
-Create a new Web Module/Core/Tool for anything web UI related.
-Create a new Blender Panel for starting/connecting/killing logic for web UI on user-specified port.
-Moved websocket server from inside blenderbim into its own python module that is run as a subprocess.
-Implemented starting/connecting/communicating/killing logic for the web UI within BlenderBim.
+- Create a new Web Module/Core/Tool for anything web UI related.
+- Create a new Blender Panel for starting/connecting/killing logic for web UI on user-specified port.
+- Moved websocket server from inside blenderbim into its own python module that is run as a subprocess. 
+- Implemented starting/connecting/communicating/killing logic for the web UI within BlenderBim.
 
 Merged in [PR #4885](https://github.com/IfcOpenShell/IfcOpenShell/pull/4885#issuecomment-2175543797)
 
 ## Week 3 (June 19th to June 25th)
 
-Create HTML/CSS/JS to render IFC data in tabular format in Web UI.
-Add new output format `WEB` to IFC CSV export panel.
-Add a highlight operator in the Web UI data table that highlights objects in Blender.
+- Create HTML/CSS/JS to render IFC data in tabular format in Web UI.
+- Add new output format `WEB` to IFC CSV export panel.
+- Add a highlight operator in the Web UI data table that highlights objects in Blender.
 
 Merged in [PR #4918](https://github.com/IfcOpenShell/IfcOpenShell/pull/4918)
 
 ## Week 4 (June 26th to July 2nd)
 
-Create HTML/CSS/JS for rendering scheduling Gantt Charts in web UI
-Add changes in the web UI Gantt chart table reflected in BlenderBim Gantt chart panel
+- Create HTML/CSS/JS for rendering scheduling Gantt Charts in web UI
+- Add changes in the web UI Gantt chart table reflected in BlenderBim Gantt chart panel
 
 Merged in [PR #4979](https://github.com/IfcOpenShell/IfcOpenShell/pull/4979)
 
@@ -45,12 +45,17 @@ No work was done this week due to my graduation project deadline, and discussion
 
 ## Week 6 (July 10th to July 16th)
 
-Community feedback
-Create a diagram to represent the project flow
+- Community feedback
+- Create a diagram to represent the project flow
 
 ## Week 7 (July 17th to July 23rd)
 
-Fix issues with starting the server
-Add a light theme to the web UI
-edit the diagram with more details
-Pending....
+- Fix issues with starting the server
+- Add a light theme to the web UI
+- Edit the diagram with more details
+
+Merged [PR #5066](https://github.com/IfcOpenShell/IfcOpenShell/pull/5066)
+
+## Week 8 (July 24th to Current)
+
+Pending...
