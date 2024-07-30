@@ -12,14 +12,14 @@ No work was done during this period due to my exams.
 
 ## Week 1 (June 6th to June 11th)
 
-- Implemented a simple websocket server inside blenderbim.
+- Implemented a simple websocket server inside Blenderbim.
 - IFC file name is sent to the web browser.
 
 ## Week 2 (June 12th to June 18)
 
 - Create a new Web Module/Core/Tool for anything web UI related.
-- Create a new Blender Panel for starting/connecting/killing logic for web UI on user-specified port.
-- Moved websocket server from inside blenderbim into its own python module that is run as a subprocess. 
+- Create a new Blender Panel to start/connect/kill logic for web UI on a user-specified port.
+- Moved websocket server from inside Blenderbim into its Python module run as a subprocess. 
 - Implemented starting/connecting/communicating/killing logic for the web UI within BlenderBim.
 
 Merged in [PR #4885](https://github.com/IfcOpenShell/IfcOpenShell/pull/4885#issuecomment-2175543797)
@@ -28,7 +28,7 @@ Merged in [PR #4885](https://github.com/IfcOpenShell/IfcOpenShell/pull/4885#issu
 
 - Create HTML/CSS/JS to render IFC data in tabular format in Web UI.
 - Add new output format `WEB` to IFC CSV export panel.
-- Add a highlight operator in the Web UI data table that highlights objects in Blender.
+- Add a highlight operator in the Web UI data table highlighting objects in Blender.
 
 Merged in [PR #4918](https://github.com/IfcOpenShell/IfcOpenShell/pull/4918)
 
@@ -56,6 +56,12 @@ No work was done this week due to my graduation project deadline, and discussion
 
 Merged [PR #5066](https://github.com/IfcOpenShell/IfcOpenShell/pull/5066)
 
-## Week 8 (July 24th to Current)
+## Week 8 (July 24th to July 30th)
 
-Pending...
+- Add drawings page to web UI that shows drawings/sheets
+- Add a footer to IFC Data and Gantt chart pages that shows the Blenderbim version
+- Add a connected blender list that shows connected blenders to the current web UI
+
+## Week 9 (July 31st to Current)
+
+Pending....
