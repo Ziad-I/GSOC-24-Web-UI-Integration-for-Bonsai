@@ -54,13 +54,15 @@ No work was done this week due to my graduation project deadline, and discussion
 - Add a light theme to the web UI
 - Edit the diagram with more details
 
-Merged [PR #5066](https://github.com/IfcOpenShell/IfcOpenShell/pull/5066)
+Merged in [PR #5066](https://github.com/IfcOpenShell/IfcOpenShell/pull/5066)
 
 ## Week 8 (July 24th to July 30th)
 
 - Add drawings page to web UI that shows drawings/sheets
 - Add a footer to IFC Data and Gantt chart pages that shows the Blenderbim version
 - Add a connected blender list that shows connected blenders to the current web UI
+
+Merged in [PR #5103](https://github.com/IfcOpenShell/IfcOpenShell/pull/5103)
 
 ## Week 9 (July 31st to Current)
 
