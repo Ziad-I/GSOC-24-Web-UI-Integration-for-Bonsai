@@ -64,6 +64,14 @@ Merged in [PR #5066](https://github.com/IfcOpenShell/IfcOpenShell/pull/5066)
 
 Merged in [PR #5103](https://github.com/IfcOpenShell/IfcOpenShell/pull/5103)
 
-## Week 9 (July 31st to Current)
+## Week 9 (July 31st to August 6th)
 
-Pending....
+- Add a Blender-generate theme to all pages
+- Fix the connected blender list
+- Add updating connected blender and disconnection in drawings page
+
+Merged in [PR #5148](https://github.com/IfcOpenShell/IfcOpenShell/pull/5148)
+
+## Week 10 (August 7th to Current)
+
+Pending...
