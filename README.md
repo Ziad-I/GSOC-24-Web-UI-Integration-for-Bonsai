@@ -12,14 +12,14 @@ No work was done during this period due to my exams.
 
 ## Week 1 (June 6th to June 11th)
 
-- Implemented a simple websocket server inside Blenderbim.
+- Implemented a simple WebSocket server inside Blenderbim.
 - IFC file name is sent to the web browser.
 
 ## Week 2 (June 12th to June 18)
 
 - Create a new Web Module/Core/Tool for anything web UI related.
 - Create a new Blender Panel to start/connect/kill logic for web UI on a user-specified port.
-- Moved websocket server from inside Blenderbim into its Python module run as a subprocess. 
+- Moved WebSocket server from inside Blenderbim into its Python module run as a subprocess. 
 - Implemented starting/connecting/communicating/killing logic for the web UI within BlenderBim.
 
 Merged in [PR #4885](https://github.com/IfcOpenShell/IfcOpenShell/pull/4885#issuecomment-2175543797)
@@ -28,7 +28,7 @@ Merged in [PR #4885](https://github.com/IfcOpenShell/IfcOpenShell/pull/4885#issu
 
 - Create HTML/CSS/JS to render IFC data in tabular format in Web UI.
 - Add new output format `WEB` to IFC CSV export panel.
-- Add a highlight operator in the Web UI data table highlighting objects in Blender.
+- Add a highlight operator in the Web UI data table that highlights objects in Blender.
 
 Merged in [PR #4918](https://github.com/IfcOpenShell/IfcOpenShell/pull/4918)
 
@@ -72,6 +72,16 @@ Merged in [PR #5103](https://github.com/IfcOpenShell/IfcOpenShell/pull/5103)
 
 Merged in [PR #5148](https://github.com/IfcOpenShell/IfcOpenShell/pull/5148)
 
-## Week 10 (August 7th to Current)
+## Week 10 (August 7th to August 13th)
+
+- Move outdated data warnings into the connected list
+- fix printing on the Gantt page when there are multiple Gantt charts.
+- change pages' names from (IFC data, Gantt charts, and drawings) to (Schedules, Construction Sequencing, and Documentation) 
+- code organization and bug fixes.
+- make web UI the default for work schedules and spreadsheet export panel
+- add docstrings and formatting for them.
+- add an API that is separate from Blender for the web UI.
+
+## Week 11 (August 14th to Current)
 
 Pending...
