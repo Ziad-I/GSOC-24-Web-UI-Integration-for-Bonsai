@@ -1,12 +1,12 @@
 # GSOC'24: Web-Based UI integration for BlenderBim
 
-This readme has weekly updates on my GSOC project progress during the coding period in the GSOC timeline.
+This readme has weekly progress updates on my GSOC project during the coding period in the GSOC [timeline](https://developers.google.com/open-source/gsoc/timeline).
 
 Project Link: https://github.com/opencax/GSoC/issues/87
 
 Community Forum Post: https://community.osarch.org/discussion/2152/gsoc-project-web-based-ui-integration-with-blenderbim#latest
 
-## Exams (May 25th to June 6th)
+## Week 0 (May 25th to June 6th)
 
 No work was done during this period due to my exams.
 
