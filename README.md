@@ -1,4 +1,4 @@
-# GSOC'24: Web-Based UI integration for BlenderBim
+# GSOC'24: Web-Based UI integration for BonsaiBIM (formerly known as BlenderBIM)
 
 This readme has weekly progress updates on my GSOC project during the coding period in the GSOC [timeline](https://developers.google.com/open-source/gsoc/timeline).
 
@@ -12,15 +12,15 @@ No work was done during this period due to my exams.
 
 ## Week 1 (June 6th to June 11th)
 
-- Implemented a simple WebSocket server inside Blenderbim.
+- Implemented a simple WebSocket server inside BonsaiBIM.
 - IFC file name is sent to the web browser.
 
 ## Week 2 (June 12th to June 18)
 
 - Create a new Web Module/Core/Tool for anything web UI related.
 - Create a new Blender Panel to start/connect/kill logic for web UI on a user-specified port.
-- Moved WebSocket server from inside Blenderbim into its Python module run as a subprocess. 
-- Implemented starting/connecting/communicating/killing logic for the web UI within BlenderBim.
+- Moved WebSocket server from inside BonsaiBIM into its Python module run as a subprocess. 
+- Implemented starting/connecting/communicating/killing logic for the web UI within BonsaiBIM.
 
 Merged in [PR #4885](https://github.com/IfcOpenShell/IfcOpenShell/pull/4885#issuecomment-2175543797)
 
@@ -35,7 +35,7 @@ Merged in [PR #4918](https://github.com/IfcOpenShell/IfcOpenShell/pull/4918)
 ## Week 4 (June 26th to July 2nd)
 
 - Create HTML/CSS/JS for rendering scheduling Gantt Charts in web UI
-- Add changes in the web UI Gantt chart table reflected in BlenderBim Gantt chart panel
+- Add changes in the web UI Gantt chart table reflect in BonsaiBIM Gantt chart panel
 
 Merged in [PR #4979](https://github.com/IfcOpenShell/IfcOpenShell/pull/4979)
 
@@ -59,7 +59,7 @@ Merged in [PR #5066](https://github.com/IfcOpenShell/IfcOpenShell/pull/5066)
 ## Week 8 (July 24th to July 30th)
 
 - Add drawings page to web UI that shows drawings/sheets
-- Add a footer to IFC Data and Gantt chart pages that shows the Blenderbim version
+- Add a footer to IFC Data and Gantt chart pages that shows the BonsaiBIM version
 - Add a connected blender list that shows connected blenders to the current web UI
 
 Merged in [PR #5103](https://github.com/IfcOpenShell/IfcOpenShell/pull/5103)
