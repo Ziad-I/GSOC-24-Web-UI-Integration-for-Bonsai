@@ -80,7 +80,7 @@ Merged in [PR #5148](https://github.com/IfcOpenShell/IfcOpenShell/pull/5148)
 - code organization and bug fixes.
 - make web UI the default for work schedules and spreadsheet export panel
 - add docstrings and formatting for them.
-- add an API that is separate from Blender for the web UI.
+- create an API that is separate from Blender for the web UI.
 
 ## Week 11 (August 14th to Current)
 
