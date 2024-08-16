@@ -35,7 +35,7 @@ Merged in [PR #4918](https://github.com/IfcOpenShell/IfcOpenShell/pull/4918)
 ## Week 4 (June 26th to July 2nd)
 
 - Create HTML/CSS/JS for rendering scheduling Gantt Charts in web UI
-- Add changes in the web UI Gantt chart table reflect in Bonsai Gantt chart panel
+- Add changes in the web UI Gantt chart table reflected in Bonsai Gantt chart panel
 
 Merged in [PR #4979](https://github.com/IfcOpenShell/IfcOpenShell/pull/4979)
 
@@ -81,6 +81,8 @@ Merged in [PR #5148](https://github.com/IfcOpenShell/IfcOpenShell/pull/5148)
 - make web UI the default for work schedules and spreadsheet export panel
 - add docstrings and formatting for them.
 - create an API that is separate from Blender for the web UI.
+
+Merged in [PR #5180](https://github.com/IfcOpenShell/IfcOpenShell/pull/5180)
 
 ## Week 11 (August 14th to Current)
 
