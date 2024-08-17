@@ -6,7 +6,7 @@ Project Link: https://github.com/opencax/GSoC/issues/87
 
 Community Forum Post: https://community.osarch.org/discussion/2152/gsoc-project-web-based-ui-integration-with-blenderbim#latest
 
-## Week 1 (May 25th to June 6th)
+## Week 1 (May 25th to June 5th)
 
 No work was done during this period due to my exams.
 
