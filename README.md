@@ -86,4 +86,4 @@ Merged in [PR #5180](https://github.com/IfcOpenShell/IfcOpenShell/pull/5180)
 
 ## Week 12 (August 14th to Current)
 
-Pending...
+- add a demo for the web UI, explaining key parts in the code.
