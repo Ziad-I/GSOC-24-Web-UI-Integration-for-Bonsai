@@ -90,7 +90,7 @@ Merged in [PR #5180](https://github.com/IfcOpenShell/IfcOpenShell/pull/5180)
 
 - add a demo for the web UI, explaining key parts in the code.
 
-[PR #5217](https://github.com/IfcOpenShell/IfcOpenShell/pull/5217)
+Merged in [PR #5217](https://github.com/IfcOpenShell/IfcOpenShell/pull/5217)
 
 ## Future Work
 
