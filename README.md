@@ -86,11 +86,15 @@ Merged in [PR #5148](https://github.com/IfcOpenShell/IfcOpenShell/pull/5148)
 
 Merged in [PR #5180](https://github.com/IfcOpenShell/IfcOpenShell/pull/5180)
 
-### Week 12 (August 14th to Current)
+### Week 12 (August 14th to August 20th)
 
 - add a demo for the web UI, explaining key parts in the code.
 
 Merged in [PR #5217](https://github.com/IfcOpenShell/IfcOpenShell/pull/5217)
+
+### Week 13 (August 21st to Current)
+
+Pending...
 
 ## Future Work
 
