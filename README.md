@@ -92,12 +92,17 @@ Merged in [PR #5180](https://github.com/IfcOpenShell/IfcOpenShell/pull/5180)
 
 Merged in [PR #5217](https://github.com/IfcOpenShell/IfcOpenShell/pull/5217)
 
-### Week 13 (August 21st to Current)
+### Week 13 (August 21st to August 27th)
 
-Pending...
+- Add a RMB context menu to web UI spreadsheets to select the top calculation case by case for each column
+- Add a button to the drawings panel to open the Web UI documentation page.
+- fix broken display when multiple spreadsheets are exported to the web due to absolute positioning.
+
+[PR #5236](https://github.com/IfcOpenShell/IfcOpenShell/pull/5236)
 
 ## Future Work
 
+- Switch to a tabbed layout instead of a vertical layout for the Schedules and Construction Sequencing pages.
 - Use a JavaScript framework like React for better state management and more complex UI.
 - Polish existing web UI pages to have more functionality.
 - Add BCF Topics, IDS Audits, and facility management web UI pages.
