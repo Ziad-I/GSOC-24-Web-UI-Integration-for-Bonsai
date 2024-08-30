@@ -98,7 +98,7 @@ Merged in [PR #5217](https://github.com/IfcOpenShell/IfcOpenShell/pull/5217)
 - Add a button to the drawings panel to open the Web UI documentation page.
 - fix broken display when multiple spreadsheets are exported to the web due to absolute positioning.
 
-[PR #5236](https://github.com/IfcOpenShell/IfcOpenShell/pull/5236)
+Merged in [PR #5236](https://github.com/IfcOpenShell/IfcOpenShell/pull/5236)
 
 ## Future Work
 
